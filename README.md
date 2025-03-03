@@ -1,4 +1,4 @@
-# 🤖 Chatbot Mathématique
+# 🤖 Chatbot Mathématiques
 
 Un chatbot intelligent qui utilise un **LLM en local** grâce à **Ollama** et au modèle **Mistral 7B** pour répondre aux questions mathématiques.
 
