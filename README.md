@@ -28,9 +28,9 @@ Un chatbot intelligent qui utilise un **LLM en local** grâce à **Ollama** et a
    python main.py
    ```
 - **Mac**
-```bash
-python3 main.py
-```
+   ```bash
+   python main.py
+   ```
 
 ## 📸 Exemple d'utilisation
 ```
