@@ -13,7 +13,7 @@ Un chatbot intelligent qui utilise un **LLM en local** grâce à **Ollama** et a
 
 3. **Cloner le projet** :
    ```bash
-   git clone https://github.com/votre-utilisateur/chatbot-math.git
+   git clone https://github.com/AdelMessaoudi-13/chatbot-math
    cd chatbot-math
    ```
 
@@ -37,7 +37,6 @@ Pose une question en maths : Quelle est la dérivée de x^2 ?
 
 ## 🛠 Technologies utilisées
 - **Python 3.x**
-- **requests** (API Ollama)
 - **Ollama** (Moteur de modèles de langage)
 - **Mistral 7B** (Modèle LLM utilisé)
 
